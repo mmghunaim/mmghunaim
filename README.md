@@ -12,4 +12,4 @@ I am out-of-the-box thinking and self-starter software engineer, and passionate 
 
 With following TDD approach, I write automated tests to develop testable, scalable, maintainable, and refactorable codebase.
 
-I play projects from the development phase to the deployment and operations processes, so it can be used by the end-users.
+I play with projects from the development phase to the deployment and operations processes, so it can be used by the end-users.
