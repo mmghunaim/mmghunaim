@@ -8,7 +8,7 @@
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
 
-I am out-of-the-box thinking and self-starter software engineer, and passionate about everything in the tech world!
+I am out-of-the-box thinker and self-driven software engineer, and passionate about everything in the tech world!
 
 With following TDD approach, I write automated tests to develop testable, scalable, maintainable, and refactorable codebase.
 
